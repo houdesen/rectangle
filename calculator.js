@@ -21,4 +21,9 @@ $(function () {
     })
     $forkMeGH.show("https://github.com/wujinya2017/w-zuoye-baidu");
     $bszPageFooter.show("body");
+    $('.fork-me-github').css('position','fixed');
+    $('.fork-me-github').css('width','149px');
+    $('.fork-me-github').css('margin','0');
+    $('footer').css('position','fixed');
+
 })
