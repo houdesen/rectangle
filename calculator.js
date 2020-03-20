@@ -19,4 +19,6 @@ $(function () {
         $area.val(a);
 
     })
+    $forkMeGH.show("https://github.com/wujinya2017/w-zuoye-baidu");
+    $bszPageFooter.show("body");
 })
